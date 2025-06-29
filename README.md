@@ -26,3 +26,10 @@ namespace ConsoleApplication
     }
 }
 ```
+### OUTPUT 
+```
+SECTION: A
+NAME: saikumar
+MARK: 80
+PERCENTAGE: 79.44
+```
